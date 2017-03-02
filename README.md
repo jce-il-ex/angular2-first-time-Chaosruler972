@@ -1,3 +1,6 @@
+
+The web-link for the app is : https://jce-se-ex1.firebaseapp.com/
+
 # Angular 2 create and delpoy for first time
 
 First time creating and deploying angular2 app
